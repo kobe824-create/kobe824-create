@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Iradukunda Happy</h1>
+<h1 align="center">Hey there 👋, I'm Iradukunda Happy Qasim</h1>
 <h3 align="center">💻 Passionate Full-Stack Web & Mobile Developer | 🔐 Exploring Cybersecurity & Ethical Hacking</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
